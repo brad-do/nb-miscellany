@@ -4,5 +4,5 @@ This project represents a collection of different Jupyter Notebooks I've written
 ## multiline_line_strings.ipynb
 [PEP8](https://www.python.org/dev/peps/pep-0008/), of course, says that your line lengths shouldn't be longer than 79 characters.  So, what do you do when you have long string values, particularly strings that you'd like to span multiple lines, such as SQL statements?  Well, Python has a number of options at your disposal.  This notebook outlines several of those.
 
-##rick_rolling.ipynb
+## rick_rolling.ipynb
 Here's a silly little notebook, inspired by [this](https://www.littlemissdata.com/blog/lacroix) [Little Miss Data](https://www.littlemissdata.com/) post, where I try to figure out to drop an animated GIF on top of a matplotlib chart.
