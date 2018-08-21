@@ -9,3 +9,6 @@ A notebook demonstrating a way to download a whole bunch of files on a website a
 
 ## rick_rolling.ipynb
 Here's a silly little notebook, inspired by [this](https://www.littlemissdata.com/blog/lacroix) [Little Miss Data](https://www.littlemissdata.com/) post, where I try to figure out to drop an animated GIF on top of a matplotlib chart.
+
+## venn_diagrams.ipynb
+A notebook demonstrating a great way to create Venn Diagrams.
