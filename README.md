@@ -10,6 +10,9 @@ A notebook demonstrating a way to download a whole bunch of files on a website a
 ## ocr_fun.ipynb
 A notebook that does a couple of cool things: 1) it demonstrates a way how you might be able to interact with a Linux sub-system installed on your Windows 10 workstation and 2) run the [tesseract utility](https://github.com/tesseract-ocr/tesseract) within that Linux sub-system to OCR an image.
 
+## poverty.ipynb
+A notebook that plots the US poverty rate and annotates the plot as to when key legislation was enacted.
+
 ## rick_rolling.ipynb
 Here's a silly little notebook, inspired by [this](https://www.littlemissdata.com/blog/lacroix) [Little Miss Data](https://www.littlemissdata.com/) post, where I try to figure out to drop an animated GIF on top of a matplotlib chart.
 
