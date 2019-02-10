@@ -13,6 +13,9 @@ A notebook that does a couple of cool things: 1) it demonstrates a way how you m
 ## poverty.ipynb
 A notebook that plots the US poverty rate and annotates the plot as to when key legislation was enacted.
 
+## read_html_part1.ipynb
+A notebook providing an example of pandas' powerful read_html function.
+
 ## rick_rolling.ipynb
 Here's a silly little notebook, inspired by [this](https://www.littlemissdata.com/blog/lacroix) [Little Miss Data](https://www.littlemissdata.com/) post, where I try to figure out to drop an animated GIF on top of a matplotlib chart.
 
