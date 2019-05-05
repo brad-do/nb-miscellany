@@ -1,6 +1,9 @@
 # Overview
 This project represents a collection of different Jupyter Notebooks I've written to solve various problems.  It didn't seem to make sense to create new projects for each one, so I've included all of them together into one, miscellaneous project.  I'll be adding more notebooks over time, more than likely.
 
+## bash_in_your_notebook.ipynb
+A notebook demonstrating the cool bash magic command feature of Jupyter Notebooks.
+
 ## college_tuition_vs_starting_salary.ipynb
 Here, I take a crack at drawing a cool bubble chart in matplotlib with college tuition and salary data.
 
