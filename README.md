@@ -13,6 +13,9 @@ A notebook demonstrating a way to download a whole bunch of files on a website a
 ## multiline_line_strings.ipynb
 [PEP8](https://www.python.org/dev/peps/pep-0008/), of course, says that your line lengths shouldn't be longer than 79 characters.  So, what do you do when you have long string values, particularly strings that you'd like to span multiple lines, such as SQL statements?  Well, Python has a number of options at your disposal.  This notebook outlines several of those.
 
+## python_bingo.ipynb
+A simple and fun way to create bingo cards for all your bingo needs!
+
 ## ocr_fun.ipynb
 A notebook that does a couple of cool things: 1) it demonstrates a way how you might be able to interact with a Linux sub-system installed on your Windows 10 workstation and 2) run the [tesseract utility](https://github.com/tesseract-ocr/tesseract) within that Linux sub-system to OCR an image.
 
