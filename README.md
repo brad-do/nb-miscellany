@@ -28,6 +28,9 @@ A notebook providing an example of pandas' powerful read_html function.
 ## rick_rolling.ipynb
 Here's a silly little notebook, inspired by [this](https://www.littlemissdata.com/blog/lacroix) [Little Miss Data](https://www.littlemissdata.com/) post, where I try to figure out to drop an animated GIF on top of a matplotlib chart.
 
+## slope_chart.ipynb
+A notebook demonstrating how you might be able to use a slope chart in your work.
+
 ## things_to_do_in_markdown.ipynb
 A notebook of ways I like to use markdown cells in my notebooks.
 
