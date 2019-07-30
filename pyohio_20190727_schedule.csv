@@ -1,0 +1,88 @@
+start_end,slot1,slot2,slot3,slot4
+9:00am - 9:15am,"Saturday Welcome
+Location: Cartoon 1, Cartoon 2
+Plenary details",,,
+9:15am - 10:00am,"Changing Lives through Open Source, Passion and Mentoring
+Kattni Rembor
+Location: Cartoon 1, Cartoon 2",,,
+10:00am - 10:30am,"Break
+
+",,,
+10:30am - 11:00am,"Becoming a Better Curator of Your Code
+Ian Zelikman
+Location: Cartoon 1","Demystifying Machine Learning
+Nikola Novakovic
+Location: Cartoon 2","Big Data with Small Computers: Building a Hadoop Cluster with Raspberry Pis
+Alexandria Kalika
+Location: Barbie Tootle","“Who’d I Lend That Book To?” Hard Questions Answered with Python
+Daniel Lindeman
+Location: Hays Cape"
+10:30am - 12:30pm,"Enough Python to Fake It
+Catherine Devlin
+Location: Suzanne Scharer",,,
+11:15am - 11:45am,"Lessons from Zero-Defect Software
+Jason R. Coombs
+Location: Cartoon 1","Adopt-a-pytest
+Dane Hillard
+Location: Cartoon 2","Feature Engineering: An Apprentice’s Guide to the “Dark Art” of Machine Learning
+Deborah Diller Harris
+Location: Barbie Tootle","Distributed Deep Neural Network Training using MPI on Python
+Arpan Jain, Kawthar Shafie Khorassani
+Location: Hays Cape"
+12:00pm - 12:30pm,"Explicit is Better than Implicit: Making Culture Visible with Team Charters
+Christopher T. Miller
+Location: Cartoon 1","How to Write Pytest Plugins
+Darlene Wong
+Location: Cartoon 2","Using Dash to Create Interactive Web Apps for Non-Technical Audiences
+Joseph Willi
+Location: Barbie Tootle","A Brief History of Fire Brigades
+Jon Banafato
+Location: Hays Cape"
+12:30pm - 2:00pm,"Lunch Break
+
+",,,
+2:00pm - 2:45pm,"Scraping Your Way to a Dataset
+Alex Zharichenko
+Location: Cartoon 1","A Gentle Introduction to Linear Programming in Python
+Bethany Poulin
+Location: Cartoon 2","Python Improvements (or This Is Not Your Teacher's Python)
+Travis Risner
+Location: Barbie Tootle","A Hands-On Guide to Building Interactive Command-Line Apps with cmd2
+Todd Leonhardt, Kevin Van Brunt
+Location: Hays Cape"
+3:00pm - 3:30pm,"If Statements are a Code Smell
+Aly Sivji
+Location: Cartoon 1","Docker-Composing Your Way to a Better Development Environment
+Ricardo Solano
+Location: Cartoon 2","The Magic of Python
+Darshan Markandaiah
+Location: Barbie Tootle","Django in Production with PEX
+Alexandru Barbur
+Location: Hays Cape"
+3:00pm - 5:00pm,"Hands-On Web UI Testing
+Andrew Knight
+Location: Suzanne Scharer",,,
+3:45pm - 4:15pm,"The Blameless Post Mortem: How Embracing Failure Makes Us Better
+Chris Wilcox
+Location: Cartoon 1","Building Docs like Code: Continuous Integration for Documentation
+Mason Egger
+Location: Cartoon 2","The Value of Docstrings
+Eric Appelt
+Location: Barbie Tootle","Find Your Feature Fit: How to Pick a Text Editor for Python Programming
+Gregory M. Kapfhammer, Madelyn M. Kapfhammer
+Location: Hays Cape"
+4:30pm - 5:00pm,"Your Own Personal Bootcamp: How to Efficiently Learn Your Next Technology
+Joe Erickson
+Location: Cartoon 1","# TODO: Add Comments: 5 Tips for _Winning_ at Code Comments
+Nik Kantar
+Location: Cartoon 2","Sipping the Nectar of Amazon from the Serverless Chalice
+Ilya Gotfryd
+Location: Barbie Tootle","Using Python & R in Harmony
+Matthew Brower, Krista Readout
+Location: Hays Cape"
+5:00pm - 5:15pm,"Break
+
+",,,
+5:15pm - 6:30pm,"Saturday Lightning Talks
+Location: Cartoon 1, Cartoon 2
+Plenary details",,,

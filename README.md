@@ -22,6 +22,9 @@ A notebook that does a couple of cool things: 1) it demonstrates a way how you m
 ## poverty.ipynb
 A notebook that plots the US poverty rate and annotates the plot as to when key legislation was enacted.
 
+## pyohio_2019_schedule.ipynb
+A simple example of screen scraping a conference schedule from a website and writing the results to a CSV.
+
 ## read_html_part1.ipynb
 A notebook providing an example of pandas' powerful read_html function.
 
