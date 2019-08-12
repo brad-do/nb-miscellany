@@ -13,6 +13,12 @@ A notebook demonstrating a way to download a whole bunch of files on a website a
 ## multiline_line_strings.ipynb
 [PEP8](https://www.python.org/dev/peps/pep-0008/), of course, says that your line lengths shouldn't be longer than 79 characters.  So, what do you do when you have long string values, particularly strings that you'd like to span multiple lines, such as SQL statements?  Well, Python has a number of options at your disposal.  This notebook outlines several of those.
 
+## notebook_config_files.ipynb
+A way to abstract your secret connection strings and other sensitive information out of your notebook and into a configuration file.
+
+## pivoting_dataframes.ipynb
+A demonstration of using pandas pivot and pivot_table for pivoting dataframes with strings.
+
 ## python_bingo.ipynb
 A simple and fun way to create bingo cards for all your bingo needs!
 
