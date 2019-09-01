@@ -10,6 +10,9 @@ Here, I take a crack at drawing a cool bubble chart in matplotlib with college t
 ## download_them_all.ipynb
 A notebook demonstrating a way to download a whole bunch of files on a website all at once.
 
+## filtering_on_the_most_recent_version_of_groups.ipynb
+A demonstration of how to use pandas to filter on the most recent sets of groups in a dataframe.
+
 ## multiline_line_strings.ipynb
 [PEP8](https://www.python.org/dev/peps/pep-0008/), of course, says that your line lengths shouldn't be longer than 79 characters.  So, what do you do when you have long string values, particularly strings that you'd like to span multiple lines, such as SQL statements?  Well, Python has a number of options at your disposal.  This notebook outlines several of those.
 
