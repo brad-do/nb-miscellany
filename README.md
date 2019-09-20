@@ -22,6 +22,9 @@ A way to abstract your secret connection strings and other sensitive information
 ## pivoting_dataframes.ipynb
 A demonstration of using pandas pivot and pivot_table for pivoting dataframes with strings.
 
+## process_nonstandard_files.ipynb
+Have an unconventional data file you need to pull into a pandas dataframe?  Here are two techniques to solve that problem.
+
 ## python_bingo.ipynb
 A simple and fun way to create bingo cards for all your bingo needs!
 
