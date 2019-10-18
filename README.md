@@ -7,6 +7,9 @@ A notebook demonstrating the cool bash magic command feature of Jupyter Notebook
 ## college_tuition_vs_starting_salary.ipynb
 Here, I take a crack at drawing a cool bubble chart in matplotlib with college tuition and salary data.
 
+## divmod_ftw.ipynb
+Some code demonstrating the Python divmod function.
+
 ## download_them_all.ipynb
 A notebook demonstrating a way to download a whole bunch of files on a website all at once.
 
